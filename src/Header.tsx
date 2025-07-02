@@ -8,7 +8,7 @@ import i18n from "./i18n";
 import { useTranslation } from "react-i18next";
 const Header = () => {
   const { t } = useTranslation();
-  const language = localStorage.getItem("i18nextLng") || Language.UZB;
+  const language = localStorage.getItem("i18nextLng") || "uzb";
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
   const [currentLanguage, setCurrentLanguage] = useState(language);
