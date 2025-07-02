@@ -204,7 +204,7 @@ const Header = () => {
                     }
                   )}
                 >
-                  <Link className="w-full block" to="contact">
+                  <Link className="w-full block" to="/contact">
                     {t("Contact")}
                   </Link>
                 </li>
