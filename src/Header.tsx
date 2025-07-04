@@ -39,12 +39,12 @@ const Header = () => {
       <div className="w-full h-fit flex justify-center items-center py-4">
         <div className="container flex items-center justify-center">
           <div className="flex items-center justify-between w-11/12 md:w-10/12">
-            <div className="w-[200px]">
+            <Link to="/" className="w-[200px]">
               <img
                 src="https://tekgrup.uz/wp-content/uploads/2024/07/TEK-GRUP_logo-2.png"
                 alt="Logo"
               />
-            </div>
+            </Link>
             <ul className="hidden lg:flex gap-6 items-center font-[600] text-base">
               <li
                 className={clsx(
