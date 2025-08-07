@@ -13,7 +13,7 @@ const Footer = () => {
                 alt="Logo"
               />
               <p className="font-bold text-[#868686] text-base">
-                Tek Grup Health Services
+                Healix Health Services
               </p>
             </div>
             <div>
@@ -28,7 +28,7 @@ const Footer = () => {
                   <a href="#">{t("Adress 2")}</a>
                 </li>
                 <li className="text-[#868686] text-base">
-                  info.uz@tekgrup.net
+                  info.uz@healix.net
                 </li>
                 <li className="text-[#868686] text-base">
                   <a href="tel:+998555150415">+998 55 515 04 15</a>
@@ -72,7 +72,7 @@ const Footer = () => {
         <div className="w-11/12 md:w-10/12 mt-16">
           <div className="h-[1px] w-full bg-[#dedee0]"></div>
           <p className="text-[#868686] text-[13px] leading-[24px] mt-6">
-            © 2025 Tek Grup Health Services. All rights reserved.
+            © 2025 Healix Health Services. All rights reserved.
           </p>
         </div>
       </div>
