@@ -36,7 +36,7 @@ const Header = () => {
           </div>
         </div>
       </div>
-      <div className="w-full h-fit flex justify-center items-center py-4">
+      <div className="w-full h-fit flex justify-center items-center py-2">
         <div className="container flex items-center justify-center">
           <div className="flex items-center justify-between w-11/12 md:w-10/12">
             <Link to="/" className="w-[200px]">
