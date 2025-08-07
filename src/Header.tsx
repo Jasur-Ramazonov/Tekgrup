@@ -41,8 +41,8 @@ const Header = () => {
           <div className="flex items-center justify-between w-11/12 md:w-10/12">
             <Link to="/" className="w-[200px]">
               <img
-                src="https://tekgrup.uz/wp-content/uploads/2024/07/TEK-GRUP_logo-2.png"
-                alt="Logo"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmKzC8b0Q6GFEb5BB7rK3QXpxywvd2x9Wwg&s"
+                alt="Healix"
               />
             </Link>
             <ul className="hidden lg:flex gap-6 items-center font-[600] text-base">
