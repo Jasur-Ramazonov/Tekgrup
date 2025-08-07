@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="flex flex-col xs:flex-row gap-10 md:gap-20 items-center justify-center lg:justify-between w-full">
             <div className="w-[220px]">
               <img
-                src="https://tekgrup.uz/wp-content/uploads/2024/07/TEK-GRUP_logo-1.png"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmKzC8b0Q6GFEb5BB7rK3QXpxywvd2x9Wwg&s"
                 alt="Logo"
               />
               <p className="font-bold text-[#868686] text-base">
