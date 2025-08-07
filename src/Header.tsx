@@ -28,7 +28,7 @@ const Header = () => {
           <div className="flex items-center justify-end gap-6 text-sm w-10/12">
             <span className="flex items-center gap-2">
               <MdEmail className="text-white text-xl" />
-              <p className="text-white">info.uz@tekgrup.net</p>
+              <p className="text-white">info.uz@healix.net</p>
             </span>
             <a className="text-white" href="tel:+998555150415">
               +998 55 515 04 15
