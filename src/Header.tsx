@@ -40,10 +40,12 @@ const Header = () => {
         <div className="container flex items-center justify-center">
           <div className="flex items-center justify-between w-11/12 md:w-10/12">
             <Link to="/" className="w-[200px]">
-              <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmKzC8b0Q6GFEb5BB7rK3QXpxywvd2x9Wwg&s"
-                alt="Healix"
-              />
+              <div className="h-[100px] overflow-hidden flex items-center">
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmKzC8b0Q6GFEb5BB7rK3QXpxywvd2x9Wwg&s"
+                  alt="Healix"
+                />
+              </div>
             </Link>
             <ul className="hidden lg:flex gap-6 items-center font-[600] text-base">
               <li
