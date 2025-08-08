@@ -8,10 +8,12 @@ const Footer = () => {
         <div className="flex flex-col xl:flex-row items-center gap-y-10 xl:gap-y-0 xl:items-start xl:justify-between w-11/12 md:w-10/12 ">
           <div className="flex flex-col xs:flex-row gap-10 md:gap-20 items-center justify-center lg:justify-between w-full">
             <div className="w-[220px]">
-              <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmKzC8b0Q6GFEb5BB7rK3QXpxywvd2x9Wwg&s"
-                alt="Logo"
-              />
+             <div className="h-[100px] overflow-hidden flex items-center">
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmKzC8b0Q6GFEb5BB7rK3QXpxywvd2x9Wwg&s"
+                  alt="Healix"
+                />
+              </div>
               <p className="font-bold text-[#868686] text-base">
                 Healix Health Services
               </p>
